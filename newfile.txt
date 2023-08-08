@@ -1,0 +1,5 @@
+i am janakiram kanubuddy.
+This file is basically creted in compay account and we are get this file to local by using pull  request by using the below command.
+git pull add remote upstream main
+so alreay we have DevOps-Automation repo in your local git.
+so after pull is completed,if your check your local repo,then you will find the file newfile.txt
